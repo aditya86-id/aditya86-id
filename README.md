@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 A passionate full-stack developer from India
 
 
